@@ -1,0 +1,27 @@
+{
+  "name": "radio-memory",
+  "version": "1.0.0",
+  "description": "Análises cefalométricas [Nome] = [Fatores ordenados]\tConjunto de Fatores Fatores = Medição Geralmente em mm ou graus.\tPossui Nome, tipo, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oouo-diogo-perdigao/angular_exemple_1.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+	"authors": [
+		{
+			"name": "oouo-diogo-perdigao",
+			"email": "diogopbritto@gmail.com"
+		}
+	],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oouo-diogo-perdigao/angular_exemple_1/issues"
+  },
+  "homepage": "https://github.com/oouo-diogo-perdigao/angular_exemple_1#readme"
+}
